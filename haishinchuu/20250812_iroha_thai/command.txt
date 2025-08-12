@@ -1,0 +1,4 @@
+ffmpeg -i iroha.webm -q:a 0 -map a iroha.mp3
+
+# word_timestamps True aiuta a indovinare i tempi con i millisecondi
+whisper iroha.mp3 --model medium --language Japanese -f srt --task translate --word_timestamps True
