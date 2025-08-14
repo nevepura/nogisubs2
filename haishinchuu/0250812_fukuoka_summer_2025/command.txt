@@ -1,0 +1,9 @@
+# scarica video
+./yt-dlp VIDEO
+
+# converti in audio
+ffmpeg -i video_fukuoka. -q:a 0 -map a audio_fukuoka.mp3
+
+# estrai sottotitoli tradotti
+# word_timestamps True aiuta a indovinare i tempi con i millisecondi
+whisper audio_fukuoka.mp3 --model medium --language Japanese -f srt --task translate --word_timestamps True
