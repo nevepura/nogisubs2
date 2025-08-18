@@ -1,0 +1,10 @@
+# scarica video
+./yt-dlp https://www.youtube.com/watch?v=eFj1mVoU1Nw
+
+# converti in audio
+ffmpeg -i video_osaka.mp4 -q:a 0 -map a audio_osaka.mp3
+
+# estrai sottotitoli tradotti
+# word_timestamps True aiuta a indovinare i tempi con i millisecondi
+whisper audio_osaka.mp3 --model large --language Japanese -f srt --task translate --word_timestamps True
+
