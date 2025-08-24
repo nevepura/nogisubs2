@@ -616,7 +616,7 @@ It's okay.
 
 155
 00:07:58,280 --> 00:08:00,120
-I'll feed you.
+I'll buy you some food.
 
 156
 00:08:00,520 --> 00:08:01,520
@@ -1344,7 +1344,7 @@ I'm sure you've heard a lot of things.
 
 337
 00:18:25,500 --> 00:18:30,080
-I'm Ryo Sasaoka, a new member of this class.
+I'm Ryo Sasaoka, a new teacher of this class.
 
 338
 00:18:30,900 --> 00:18:32,780
@@ -1352,7 +1352,7 @@ Nice to meet you.
 
 339
 00:18:35,240 --> 00:18:41,480
-Ryo Sasaoka, a new member of this class
+Ryo Sasaoka, a new teacher of this class
 
 340
 00:18:41,480 --> 00:18:42,200
@@ -1372,11 +1372,11 @@ Ryo-chan.
 
 344
 00:18:56,080 --> 00:18:58,520
-I'm also a new member of the club.
+There is also a new teacher of the club.
 
 345
 00:18:59,060 --> 00:19:00,780
-I'm the new member, Mr. Kaito Yamazoe.
+Here is the new teacher, Mr. Kaito Yamazoe.
 
 346
 00:19:04,580 --> 00:19:07,040
@@ -1695,7 +1695,7 @@ but there are as many idiots as teachers who work hard.
 But this...
 
 425
-00:23:00,580 --> 00:23:01,240
+00:23:00,580 --> 00:23:02,240
 If it's the same distance as Mr. Toyoshima,
 
 426
@@ -1864,7 +1864,7 @@ First of all,
 
 467
 00:25:21,960 --> 00:25:23,240
-I'd like to choose a class member.
+I'd like to choose a class representative.
 
 468
 00:25:26,980 --> 00:25:28,120
@@ -1872,7 +1872,7 @@ Your voice is too low.
 
 469
 00:25:28,760 --> 00:25:33,720
-I'd like to choose a class member.
+I'd like to choose a class representative.
 
 470
 00:25:35,100 --> 00:25:36,840
@@ -1880,7 +1880,7 @@ Can anyone do it?
 
 471
 00:25:36,840 --> 00:25:37,440
-I'd like to choose a class member.
+I'd like to choose a class representative.
 
 472
 00:25:45,760 --> 00:25:47,500
@@ -2864,7 +2864,7 @@ What's wrong?
 
 717
 00:39:00,960 --> 00:39:02,640
-Sasaoka is a good guy.
+Sasaoka is a good person.
 
 718
 00:39:04,160 --> 00:39:06,680
@@ -2924,23 +2924,23 @@ I didn't know it was Toshima.
 
 732
 00:39:51,840 --> 00:39:57,500
-But he apologized for me many times.
+But she apologized for me many times.
 
 733
 00:40:00,980 --> 00:40:03,720
-He said there was no one at home.
+She said there was no one at home.
 
 734
 00:40:07,540 --> 00:40:10,440
-He took me out to eat.
+she took me out to eat.
 
 735
 00:40:12,760 --> 00:40:15,460
-When he came back,
+When she came back,
 
 736
 00:40:15,460 --> 00:40:23,020
-he said I was embarrassed to eat.
+she said I was embarrassed to eat.
 
 737
 00:40:23,560 --> 00:40:24,960
@@ -2964,15 +2964,15 @@ I didn't confess to him.
 
 742
 00:40:46,460 --> 00:40:47,740
-I shouldn't have let him quit.
+I shouldn't have let her quit.
 
 743
 00:40:54,740 --> 00:41:00,600
-I'm a good guy.
+She is a good person.
 
 744
 00:41:00,600 --> 00:41:00,760
-I'm a good guy.
+She is a good person.
 
 745
 00:41:01,120 --> 00:41:06,340
@@ -2988,7 +2988,7 @@ I don't want you to be like Toshima.
 
 748
 00:41:24,820 --> 00:41:30,460
-I want you to be like Toshima.
+Even for me Rio chan is ok.
 
 749
 00:41:33,220 --> 00:41:34,440
@@ -3076,7 +3076,7 @@ Please subscribe to my channel.
 
 770
 00:45:09,940 --> 00:45:14,340
-I'm Ryo Sasaoka, a new member of this class.
+I'm Ryo Sasaoka, I have become the teacher of this class.
 
 771
 00:45:14,340 --> 00:45:17,200
