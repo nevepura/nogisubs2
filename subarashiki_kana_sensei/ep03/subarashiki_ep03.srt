@@ -147,7 +147,7 @@ You can't touch my Lena.
 I'm sorry.
 
 38
-00:01:11,920 --> 00:01:12,360
+00:01:11,920 --> 00:01:12,960
 I think it's my daughter.
 
 39
@@ -435,7 +435,7 @@ I'm not interested in sports at all.
 If you weren't a teacher, you could have gone on a trip with everyone.
 
 110
-00:03:14,300 --> 00:03:15,000
+00:03:14,300 --> 00:03:16,000
 You should have gone with Dad.
 
 111
@@ -480,7 +480,7 @@ You'll be dumped.
 
 121
 00:03:43,200 --> 00:03:45,080
-I'm in America right now.
+He is in America right now.
 
 122
 00:03:45,300 --> 00:03:45,800
@@ -488,7 +488,7 @@ Make sure you make a phone call.
 
 123
 00:03:45,800 --> 00:03:51,640
-I can't contact you so easily because I'm overseas.
+I can't contact him so easily because he is overseas.
 
 124
 00:03:52,840 --> 00:03:54,700
@@ -603,7 +603,7 @@ After all, club activities are important other than studying.
 Hey, teacher.
 
 152
-00:05:22,460 --> 00:05:23,600
+00:05:22,460 --> 00:05:24,600
 What was the club activity like in your high school days?
 
 153
@@ -675,7 +675,7 @@ You know something, right?
 Ministry of Education and Science.
 
 170
-00:06:02,100 --> 00:06:03,640
+00:06:02,100 --> 00:06:03,940
 But I don't think it's just the teachers.
 
 171
@@ -703,7 +703,7 @@ Payment is hard everywhere.
 It's just a part of a big company.
 
 177
-00:06:17,760 --> 00:06:18,640
+00:06:17,760 --> 00:06:19,440
 What's going on with the white promotion?
 
 178
@@ -840,11 +840,11 @@ I'm sorry.
 
 211
 00:07:57,620 --> 00:07:59,540
-I'm so embarrassed.
+He is so embarrassed.
 
 212
 00:07:59,840 --> 00:08:00,920
-I'm so happy.
+It's so funny.
 
 213
 00:08:02,900 --> 00:08:04,360
@@ -1000,7 +1000,7 @@ That's right.
 
 251
 00:11:00,300 --> 00:11:01,900
-We had a three-car meeting the other day.
+We had a three-way meeting the other day.
 
 252
 00:11:02,820 --> 00:11:04,620
@@ -1471,7 +1471,7 @@ I heard that my classmate Okido's father is like that.
 It's true.
 
 369
-00:15:39,580 --> 00:15:40,460
+00:15:39,580 --> 00:15:41,460
 It's a student who feels like he's sitting on a string.
 
 370
@@ -1592,11 +1592,11 @@ It's from Keiki Iwata.
 
 399
 00:17:04,800 --> 00:17:06,520
-Did you just get a call?
+Did he just get a call?
 
 400
 00:17:08,280 --> 00:17:10,340
-Your Japanese was getting worse.
+His Japanese was getting worse.
 
 401
 00:17:11,200 --> 00:17:12,060
@@ -1604,7 +1604,7 @@ Right?
 
 402
 00:17:12,580 --> 00:17:15,060
-But you really went to Okida.
+But he really went to Okida.
 
 403
 00:17:15,680 --> 00:17:17,240
@@ -1756,7 +1756,7 @@ How do you know that?
 
 440
 00:19:01,600 --> 00:19:04,200
-Ryo-sensei.
+Rio-sensei.
 
 441
 00:19:13,200 --> 00:19:14,880
@@ -1840,7 +1840,7 @@ I can't get out.
 
 461
 00:20:19,440 --> 00:20:20,580
-Are you going to Okido and Sawaya?
+Are you going to Okido and Sawaiya?
 
 462
 00:20:21,280 --> 00:20:21,980
@@ -1856,7 +1856,7 @@ I don't have class until 3 o'clock.
 
 465
 00:20:27,660 --> 00:20:28,920
-Shall we go to Okido's house?
+Shall I go to Okido's house?
 
 466
 00:20:30,000 --> 00:20:31,140
@@ -1864,7 +1864,7 @@ Are you going now?
 
 467
 00:20:32,100 --> 00:20:32,880
-Are you okay?
+Is it okay?
 
 468
 00:20:33,920 --> 00:20:34,920
@@ -1872,7 +1872,7 @@ I'm fine.
 
 469
 00:20:34,920 --> 00:20:38,220
-If you can talk to your father,
+If I can talk to his father,
 
 470
 00:20:39,140 --> 00:20:40,200
@@ -1884,7 +1884,7 @@ Really?
 
 472
 00:20:43,180 --> 00:20:45,700
-I'll go to Sawaya's house.
+I'll go to Sawaiya's house.
 
 473
 00:20:46,620 --> 00:20:48,700
@@ -1916,11 +1916,11 @@ I'm going.
 
 480
 00:21:04,920 --> 00:21:05,500
-Sawaya.
+Sawaiya.
 
 481
 00:21:06,920 --> 00:21:07,540
-Sawaya.
+Sawaiya.
 
 482
 00:21:08,620 --> 00:21:09,960
@@ -1940,7 +1940,7 @@ No.
 
 486
 00:21:16,220 --> 00:21:17,340
-Can you not come to see me?
+Can you not come to see her?
 
 487
 00:21:18,880 --> 00:21:20,100
@@ -1948,7 +1948,7 @@ But...
 
 488
 00:21:20,100 --> 00:21:21,440
-I don't need to talk to you.
+You don't need to talk to her.
 
 489
 00:21:23,680 --> 00:21:24,840
@@ -2000,7 +2000,7 @@ No, nothing.
 
 501
 00:21:59,160 --> 00:22:00,640
-Hey, Sawaya.
+Hey, Sawaiya.
 
 502
 00:22:11,620 --> 00:22:13,840
@@ -2008,7 +2008,7 @@ It's Yamazoi.
 
 503
 00:22:20,100 --> 00:22:20,620
-Okido.
+Mr Okido!
 
 504
 00:22:40,260 --> 00:22:41,800
@@ -2032,15 +2032,15 @@ What are you doing at school?
 
 509
 00:22:51,920 --> 00:22:52,780
-Who are you?
+Who are them?
 
 510
 00:22:52,780 --> 00:22:53,680
-Where are you from?
+Where are they from?
 
 511
-00:22:53,680 --> 00:22:56,940
-I'm from the old days.
+00:22:54,680 --> 00:22:56,940
+From when I was in middle school.
 
 512
 00:22:57,380 --> 00:22:59,860
@@ -2356,7 +2356,7 @@ I'm going.
 
 590
 00:26:00,100 --> 00:26:02,800
-If you can't come, I'll go.
+If he can't come, I'll go.
 
 591
 00:26:04,780 --> 00:26:05,800
@@ -2464,7 +2464,7 @@ I'm leaving. Call me if you need me.
 
 617
 00:27:32,860 --> 00:27:33,580
-Where's your boyfriend?
+Going to your boyfriend's?
 
 618
 00:27:37,860 --> 00:27:40,600
@@ -2492,7 +2492,7 @@ I quit.
 
 624
 00:27:58,200 --> 00:28:00,260
-It's about the three-car interview.
+It's about the three-way interview.
 
 625
 00:28:00,960 --> 00:28:01,560
@@ -2666,17 +2666,9 @@ Call me if you need anything.
 00:29:48,120 --> 00:29:48,800
 Bye.
 
-668
-00:29:51,640 --> 00:29:56,640
-THE END
-
 669
 00:29:58,660 --> 00:30:00,060
-****
-
-670
-00:30:00,060 --> 00:30:00,440
-The End
+Shit!
 
 671
 00:30:07,280 --> 00:30:10,080
@@ -2788,7 +2780,7 @@ My dad's not here.
 
 698
 00:31:22,120 --> 00:31:23,840
-Are you going to work?
+Is he at work?
 
 699
 00:31:25,800 --> 00:31:27,040
@@ -2796,7 +2788,7 @@ Well...
 
 700
 00:31:27,040 --> 00:31:29,160
-You said you'd come today.
+You said he knew we'd come today.
 
 701
 00:31:29,520 --> 00:31:31,580
@@ -2812,7 +2804,7 @@ What's your dad's job?
 
 704
 00:31:36,420 --> 00:31:37,860
-What do you do specifically?
+What does he do specifically?
 
 705
 00:31:37,860 --> 00:31:38,980
@@ -2820,7 +2812,7 @@ I don't know.
 
 706
 00:31:38,980 --> 00:31:40,440
-What time do you finish?
+What time does he finish?
 
 707
 00:31:42,040 --> 00:31:43,700
@@ -3136,7 +3128,7 @@ Excuse me.
 
 785
 00:34:37,300 --> 00:34:38,320
-Can I go now?
+Do you drink?
 
 786
 00:34:38,500 --> 00:34:39,040
@@ -3149,10 +3141,6 @@ Yes.
 788
 00:34:52,960 --> 00:34:54,500
 It's so scary.
-
-789
-00:35:00,140 --> 00:35:00,580
-Taro.
 
 790
 00:35:02,840 --> 00:35:03,540
@@ -3267,7 +3255,7 @@ No.
 Well...
 
 818
-00:36:02,440 --> 00:36:02,920
+00:36:02,440 --> 00:36:03,520
 Did you hear about Yakuza?
 
 819
@@ -3488,7 +3476,7 @@ Is that so?
 
 873
 00:39:18,500 --> 00:39:21,400
-But if you're serious,
+But if he is serious,
 
 874
 00:39:22,220 --> 00:39:22,960
@@ -3508,7 +3496,7 @@ Are you serious?
 
 878
 00:39:35,240 --> 00:39:38,520
-Is there a chance that you can go to college in Gogen?
+Is there a chance that he can go to college in Gogen?
 
 879
 00:39:41,220 --> 00:39:43,380
@@ -3556,7 +3544,7 @@ Hey,
 
 890
 00:40:58,320 --> 00:41:04,620
-she's the child I gave birth to.
+he's the child I gave birth to.
 
 891
 00:41:16,220 --> 00:41:21,740
@@ -3632,7 +3620,7 @@ But I was a little surprised.
 
 909
 00:42:32,460 --> 00:42:35,360
-It's the time when your father suddenly cried.
+It's the time when his father suddenly cried.
 
 910
 00:42:36,460 --> 00:42:37,000
@@ -3744,7 +3732,7 @@ When I went to the store the other day.
 
 937
 00:44:17,940 --> 00:44:18,480
-Damn it.
+That old hag.
 
 938
 00:44:19,520 --> 00:44:20,320
