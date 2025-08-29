@@ -116,7 +116,7 @@ Let's go.
 
 30
 00:01:24,220 --> 00:01:25,320
-I'm going to get a ride.
+This camera, I'd like Mirine to hold it.
 
 31
 00:01:25,320 --> 00:01:25,600
@@ -331,7 +331,7 @@ I'm going to eat.
 We've arrived at Tokyo Station.
 
 84
-00:03:24,600 --> 00:03:26,560
+00:03:24,600 --> 00:03:28,560
 We've arrived at the station for about five minutes from JR Morinomiya Station.
 
 85
@@ -596,15 +596,15 @@ It smells delicious.
 
 150
 00:06:20,440 --> 00:06:22,820
-It's a food report.
+It's crunchy.
 
 151
 00:06:23,760 --> 00:06:24,420
-It's a food report.
+Umai-Ioki.
 
 152
 00:06:25,670 --> 00:06:26,980
-It's a food report.
+She said it! I was waiting for it.
 
 153
 00:06:28,400 --> 00:06:29,260
@@ -616,15 +616,15 @@ Thank you for the food.
 
 155
 00:06:36,700 --> 00:06:39,320
-I would like to eat this.
+This PR paper.
 
 156
 00:06:39,660 --> 00:06:42,280
-I would like to eat this.
+I'd ask if it's ok to hang it here.
 
 157
 00:06:42,280 --> 00:06:44,180
-I would like to eat this.
+I'd like to ask this favour.
 
 158
 00:06:44,180 --> 00:06:45,000
@@ -636,11 +636,11 @@ I'm going to do a live performance in Osaka Castle Hall.
 
 160
 00:06:52,000 --> 00:06:54,400
-Can you put this poster on the floor?
+Can you put this poster on the shop?
 
 161
 00:06:55,600 --> 00:06:56,500
-I will put it on the floor.
+Sure, we'll put it.
 
 162
 00:06:56,920 --> 00:06:58,860
@@ -648,7 +648,7 @@ Thank you.
 
 163
 00:06:59,700 --> 00:07:01,180
-I will put it on the floor.
+I will put it now.
 
 164
 00:07:02,220 --> 00:07:04,640
@@ -820,7 +820,7 @@ It's unique to fish.
 
 206
 00:09:03,900 --> 00:09:06,340
-Please give me the sauce mayo with 12 pieces.
+I'll take the 12 pieces with mayo sauce, please.
 
 207
 00:09:07,660 --> 00:09:09,140
@@ -1168,7 +1168,7 @@ Thank you very much.
 
 293
 00:13:14,360 --> 00:13:16,440
-Next is takoyaki.
+Next is takoyaki too.
 
 294
 00:13:18,240 --> 00:13:20,140
@@ -1436,7 +1436,7 @@ It's difficult.
 
 360
 00:16:40,840 --> 00:16:43,660
-The takoyaki is crispy.
+The takosen is crispy.
 
 361
 00:16:45,060 --> 00:16:47,500
@@ -1464,11 +1464,11 @@ The yolk goes well with it.
 
 367
 00:17:06,320 --> 00:17:09,920
-Next, we arrived at a luxurious cafe.
+Next, we arrived at a stylish cafe.
 
 368
 00:17:11,300 --> 00:17:12,040
-It's very luxurious.
+It's very stylish.
 
 369
 00:17:12,580 --> 00:17:13,440
@@ -2000,7 +2000,7 @@ You can eat it in one big bite.
 
 501
 00:23:42,180 --> 00:23:43,340
-You can really eat it.
+Can you really do it?
 
 502
 00:23:45,140 --> 00:23:45,620
@@ -2008,15 +2008,11 @@ It's amazing.
 
 503
 00:23:45,900 --> 00:23:48,420
-You can eat it.
+One big bite.
 
 504
-00:23:48,420 --> 00:23:50,740
-It goes well with pistachio.
-
-505
-00:23:50,740 --> 00:23:52,780
-It goes well with pistachio.
+00:23:48,420 --> 00:23:52,780
+Oh, you did it!
 
 506
 00:23:54,160 --> 00:23:56,260
@@ -2031,20 +2027,20 @@ It's amazing.
 It's amazing.
 
 509
-00:24:01,600 --> 00:24:02,500
-It's luxurious.
+00:24:01,600 --> 00:24:04,500
+You! One big bite, it's too much, isn't it?
 
 510
 00:24:07,040 --> 00:24:08,440
 It's delicious.
 
 511
-00:24:08,440 --> 00:24:10,480
-You look happy.
+00:24:08,440 --> 00:24:11,480
+You look happy, you made such a happy face.
 
 512
 00:24:12,780 --> 00:24:14,160
-Please eat it.
+Please hang it.
 
 513
 00:24:14,160 --> 00:24:15,740
@@ -2055,7 +2051,7 @@ Thank you.
 Thank you.
 
 515
-00:24:19,540 --> 00:24:26,660
+00:24:24,540 --> 00:24:26,660
 Gochisousamadeshita.
 
 516
@@ -2068,11 +2064,11 @@ We ate a lot.
 
 518
 00:24:33,600 --> 00:24:38,380
-We visited 5 stores in Osaka today.
+We visited five stores in Osaka today.
 
 519
 00:24:38,800 --> 00:24:40,240
-We visited 5 stores in Osaka today.
+We visited five stores in Osaka today.
 
 520
 00:24:40,240 --> 00:24:41,360
@@ -2080,7 +2076,7 @@ I was so happy.
 
 521
 00:24:41,560 --> 00:24:44,320
-We visited 5 stores in Osaka today.
+Five stores, so many...
 
 522
 00:24:45,240 --> 00:24:49,020
@@ -2104,15 +2100,15 @@ I've never been here before.
 
 527
 00:25:01,160 --> 00:25:02,400
-I felt Osaka.
+I felt Osaka, incredible
 
 528
 00:25:04,040 --> 00:25:06,800
-I felt Osaka.
+We have found some traditional Osaka food
 
 529
 00:25:06,800 --> 00:25:10,320
-I was so happy to see you guys in Osaka.
+It's been happy.
 
 530
 00:25:12,760 --> 00:25:16,180
@@ -2120,7 +2116,7 @@ There will be a live performance in Osaka soon,
 
 531
 00:25:18,180 --> 00:25:25,780
-so I hope people who came to Osaka can visit this store and have fun.
+so I hope people who came to Osaka can visit these stores and have fun.
 
 532
 00:25:28,260 --> 00:25:30,580
@@ -2131,7 +2127,7 @@ Thank you for watching the Osaka episode.
 Thank you very much.
 
 534
-00:25:35,820 --> 00:25:40,240
+00:25:37,020 --> 00:25:40,240
 Please subscribe to our channel and give us a high rating.
 
 535
@@ -2140,5 +2136,5 @@ One, two.
 
 536
 00:25:43,980 --> 00:25:45,580
-Okini.
+Okini!
 
