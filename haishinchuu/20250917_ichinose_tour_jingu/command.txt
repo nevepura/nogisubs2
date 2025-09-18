@@ -1,0 +1,10 @@
+# scarica video
+./yt-dlp https://www.youtube.com/watch?v=eFj1mVoU1Nw
+
+# converti in audio
+ffmpeg -i ichinose_jingu.mp4 -q:a 0 -map a ichinose_jingu.mp3
+
+# estrai sottotitoli tradotti
+# word_timestamps True aiuta a indovinare i tempi con i millisecondi
+whisper ichinose_jingu.mp3 --model medium --language Japanese -f srt --task translate --word_timestamps True
+
