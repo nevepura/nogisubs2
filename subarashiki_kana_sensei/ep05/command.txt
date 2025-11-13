@@ -1,0 +1,9 @@
+# converti in audio
+ffmpeg -i '20240915 素晴らしき哉、先生！ 5限目 いたい場所は、ここじゃない。 [TVer][1080p].mp4' -q:a 0 -map a audio_subarashiki_ep05.mp3
+
+# estrai sottotitoli tradotti
+# word_timestamps True aiuta a indovinare i tempi con i millisecondi
+whisper audio_subarashiki_ep05.mp3 --model medium --language Japanese -f srt --task translate --word_timestamps True
+
+
+
